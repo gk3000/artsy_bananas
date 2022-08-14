@@ -1,4 +1,4 @@
-# A collection of juice artsy bananas 
+# A collection of artsy bananas images
 
 For your developer's needs. 
 
